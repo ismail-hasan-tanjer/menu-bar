@@ -1,0 +1,25 @@
+.frist-section{
+    height: 100px;
+    background-color: yellow;
+}
+
+.second-section {
+    height: 500px;
+}
+
+.third-section{
+    height: 200px;
+}
+.logo {
+    height: 50px;
+    width: 50px;
+}
+/* .home-menu {
+    background-color: brown;
+} */
+.service-menu{
+    background-color: blueviolet;
+}
+.customer-bg{
+    background-color: rgb(39, 65, 56);
+}
